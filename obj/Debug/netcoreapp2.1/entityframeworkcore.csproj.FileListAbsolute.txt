@@ -1,0 +1,11 @@
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.csprojAssemblyReference.cache
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.csproj.CoreCompileInputs.cache
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.AssemblyInfoInputs.cache
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.AssemblyInfo.cs
+C:\Developer\POC\entityframeworkcore\bin\Debug\netcoreapp2.1\entityframeworkcore.deps.json
+C:\Developer\POC\entityframeworkcore\bin\Debug\netcoreapp2.1\entityframeworkcore.runtimeconfig.json
+C:\Developer\POC\entityframeworkcore\bin\Debug\netcoreapp2.1\entityframeworkcore.runtimeconfig.dev.json
+C:\Developer\POC\entityframeworkcore\bin\Debug\netcoreapp2.1\entityframeworkcore.dll
+C:\Developer\POC\entityframeworkcore\bin\Debug\netcoreapp2.1\entityframeworkcore.pdb
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.dll
+C:\Developer\POC\entityframeworkcore\obj\Debug\netcoreapp2.1\entityframeworkcore.pdb
